@@ -13,6 +13,14 @@
 
 .clickable{
 	cursor: pointer;
+	border-width:1px;
+	border-color:#0f0;
+}
+
+.non-clickable{
+	cursor: default;
+	border-width:1px;
+	border-color:#f00;
 }
 
 canvas{
